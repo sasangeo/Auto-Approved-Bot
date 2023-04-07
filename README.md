@@ -12,7 +12,9 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 ## Developer
 - [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
 ```
+#### Deploy on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasangeo/Auto-Approved-Bot)</br>
 
 
 <p align="center">
